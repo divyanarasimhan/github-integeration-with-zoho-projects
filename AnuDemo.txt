@@ -1,2 +1,3 @@
 Github integeration demo test sample
 bug fix
+updating the file to test github integration with bugtracker
